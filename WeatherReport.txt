@@ -1,0 +1,5 @@
+Weather Data Analysis Summary:
+
+Average Temperature: 26.26 °C
+Max Temperature: 37.80 °C, Min Temperature: 15.90 °C
+Average Humidity: 0.50 
